@@ -1,4 +1,4 @@
-##This is the GitHub of Dylan Power
+*This is the GitHub of Dylan Power
 ##I am a Computer Science Graduate from Arcadia University
 ##I love java and software development!
 ##located in Philadelphia, PA
