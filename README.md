@@ -5,6 +5,9 @@
 #### Located in Springfield, PA Delaware County. Philadelphia Metropolitan Area.
 #### powerdylan97@gmail.com (610)405-7808. Feel free to contact me with questions about my work.
 #### Knowledgable in Software Developement. SDLC, SCRUM, Git, Agile, Virtual Environments, Testing, Pen-Testing, UX/UI, MySQL, Database Administration.
+#### Java, PHP, SQL, Python, C# Expert
+#### Android Developement Enthusiast
+#### Rasperry-Pi Retro Gaming Hobbyist
 <!---
 powerdylan97/powerdylan97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
