@@ -1,4 +1,4 @@
-# Dylan Power Age: 24. Programmer, Full-Stack Developement; CompTIA Security+,Networking+,A+,ITF+ certified.
+# Dylan Power Age: 25. Programmer, Full-Stack Developement; CompTIA Security+,Networking+,A+,ITF+ certified.
 # Big Data extraordinaire! Professional Security know-it-all. Ethical Hacker. Website Designer. Self-Proclaimed LeetCode Beast
 ## Future goals of continuing education in a graduate level security field
 ## Computer Science Graduate from Arcadia University
