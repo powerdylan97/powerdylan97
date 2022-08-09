@@ -1,9 +1,10 @@
 # Dylan Power Age: 24. Programmer, Full-Stack Developement; CompTIA Security+,Networking+,A+,ITF+ certified.
-# Big Data extraordinaire! Professional Security know-it-all. Ethical Hacker. Website Designer. Self-Proclaimed LeetCode Beast!
+# Big Data extraordinaire! Professional Security know-it-all. Ethical Hacker. Website Designer. Self-Proclaimed LeetCode Beast
 ## Future goals of continuing education in a graduate level security field
 ## Computer Science Graduate from Arcadia University
 #### Located in Springfield, PA Delaware County. Philadelphia Metropolitan Area.
 #### powerdylan97@gmail.com (610)405-7808. Feel free to contact me with questions about my work.
+#### CompTIA A+, ITF+, Security+, and Networking+ certified
 #### www.DylanPowerTheCompGuy.org
 #### Knowledgable in Software Developement. SDLC, SCRUM, Git, Agile, Jira, Virtual Environments, Testing, Pen-Testing, UX/UI, MySQL, Database Administration.
 #### Java, PHP, SQL, Python, C# Expert
